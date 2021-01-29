@@ -114,7 +114,7 @@ For questions about this project please reach out to me!
 
 ***
 ## License
-![Badge]('https://img.shields.io/badge/license-${data.license}-blue.svg')
+![Badge](https://img.shields.io/badge/license-${data.license}-blue.svg)
 
 ***`
 };
